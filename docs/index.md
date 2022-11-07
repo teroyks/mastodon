@@ -72,4 +72,8 @@ Tulossa jatkoa Mastodonin käytöstä, mm.
 - Hyvä tietää tööttäilystä
 - Miten Twitter-kaverini löytävät minut?
 
-<footer style="margin-top: 2em; font-size: x-small;">Päivitetty 7.11.2022</footer>
+<footer style="margin-top: 2em; font-size: small;">
+  <img src="img/me.png" style="width: 50px;" alt="My Mastodon profile picture">
+  Tekijä: [Tero Ykspetäjä](https://mastodon.social/@t3ro).
+  Päivitetty 7.11.2022
+</footer>
