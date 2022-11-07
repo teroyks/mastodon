@@ -74,7 +74,6 @@ Tulossa jatkoa Mastodonin käytöstä, mm.
 
 <footer style="margin-top: 2em; font-size: small; border-top: 1px solid lightgrey; padding-top: .5em;">
 <img src="img/me.png" style="width: 50px; float: left; margin-right: 1em;" alt="My Mastodon profile picture">
-
-Tekijä: [Tero Ykspetäjä](https://mastodon.social/@t3ro).
+Tekijä: <a href="https://mastodon.social/@t3ro" rel="me" title="My Mastodon page">Tero Ykspetäjä</a>.
 Päivitetty 7.11.2022
 </footer>
