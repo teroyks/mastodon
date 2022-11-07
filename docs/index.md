@@ -21,7 +21,7 @@ Mastodon on ”vähän kuin Twitter, mutta parempi” (paremmuus on luonnollises
 
 ## Miten pääsen alkuun?
 
-Ensimmäinen (ja isoin) kynnys Mastodonin käytön aloittamiseksi on serverin valinta. Mastodon on hajautettu järjestelmä, joka koostuu lukuisista eri servereistä (usein niitä kutsutaan myös instansseiksi). Mastodon-tunnus näyttää vähän sähköpostiosoitteelta, eli siinä on käyttäjänimen perässä serverin osoite (esim. oma tunnukseni on [@t3ro@mastodon.social](https://mastodon.social/@t3ro)).
+Ensimmäinen (ja isoin) kynnys Mastodonin käytön aloittamiseksi on serverin valinta. Mastodon on hajautettu järjestelmä, joka koostuu lukuisista eri servereistä (usein niitä kutsutaan myös instansseiksi). Päivitykset kulkeutuvat serveriltä toiselle, eli serverin valinta ei rajoita sitä, keiden päivityksiä pääset näkemään. Mastodon-tunnus näyttää vähän sähköpostiosoitteelta, eli siinä on käyttäjänimen perässä serverin osoite (esim. oma tunnukseni on [@t3ro@mastodon.social](https://mastodon.social/@t3ro)).
 
 Servereitä on erilaisia, ja niillä voi olla keskenään vähän erilaisia sääntöjä esim. sallitun sisällön suhteen. ”Oman” serverin sisältöä on myös mahdollista selailla ja etsiä monipuolisemmin kuin koko verkostosta. Tästä ei kuitenkaan tarvitse tässä vaiheessa välittää.
 
