@@ -1,7 +1,7 @@
 <img src="img/mastodon_logo.png" alt="Mastodon logo" style="float: right; width: 100px">
 # Mastodon-opas
 
-Tämä on pikaopas alkuun pääsemiseksi Mastodonin kanssa. Olen tarkoituksella jättänyt tästä pois filosofiset pohdiskelut eri järjestelmien luonteista ja myös suurimman osan Mastodonin ominaisuuksista ja yrittänyt keskittyä oleelliseen: mikä Mastodon on ja miten siihen voi liittyä.
+Tämä on pikaopas alkuun pääsemiseksi Mastodonin kanssa. Olen tarkoituksella jättänyt filosofiset pohdiskelut eri järjestelmien luonteista ja myös suurimman osan Mastodonin ominaisuuksista pois ja yrittänyt keskittyä oleelliseen: mikä Mastodon on ja miten siihen voi liittyä.
 
 ## Mikä Mastodon?
 
@@ -51,7 +51,7 @@ Nyt voit lähettää maailmalle ensimmäisen tööttäyksesi! Kun olet kirjautun
 
 ### Omat tiedot
 
-Jos haluat, että joku viitsii seurata sinua Mastodonissa, kannattaa seuraavaksi muokata asetuksista profiilitietojasi. Kirjoita lyhyt kuvaus, kerro vähän mikä sinua kiinnostaa, ja lisää nimi (tai nimimerkki) sekä profiilikuva (ei tarvitse pistää omaa pärstäänsä tähän välttämättä jos ei halua) – tämä kertoo, että olet todennäköisemmin oikea ihminen kuin satunnainen botti ja auttaa muita päättelemään, onko teillä jotain yhteistä.
+Jos haluat, että joku viitsii seurata sinua Mastodonissa, kannattaa seuraavaksi muokata asetuksista profiilitietojasi. Kirjoita lyhyt kuvaus, mainitse vaikka pari asiaa, joista olet kiinnostunut, ja lisää nimi (tai nimimerkki) sekä profiilikuva (ei tarvitse pistää omaa pärstäänsä tähän välttämättä jos ei halua) – tämä kertoo, että olet todennäköisemmin oikea ihminen kuin satunnainen botti ja auttaa muita päättelemään, onko teillä jotain yhteistä.
 
 ### Seuraa muita
 
