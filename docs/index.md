@@ -35,16 +35,16 @@ Ennen tunnuksen rekisteröintiä kannattaa vilkaista serverin säännöt (esim. 
 
 Valitse itsellesi käyttäjätunnus (sen pitää olla uniikki ko. serverillä, mutta muilla Mastodon-servereillä voi olla sama tunnus käytössä) ja salasana. Lisäksi tarvitset sähköpostiosoitteen, ja esim. Mastodontti pyytää lisäämään lyhyen syyn liittymiseen (näitä käytetään lähinnä spam-bottien yms. pitämiseksi pois). Useimmilla servereillä liittyminen ei vaadi tämän kummempaa. Nyt sinulla on Mastodon-tunnus!
 
-<a href="img/mastodontti_tunnuksen_luonti.png">
-  <img src="img/mastodontti_tunnuksen_luonti.png" width="300px" alt="Lomake uuden tunnuksen luomiseen">
+<a href="img/tunnuksen_luonti.png">
+  <img src="img/tunnuksen_luonti.png" width="300px" alt="Lomake uuden tunnuksen luomiseen">
 </a>
 
 ## Okei, liityin mukaan. Mitä nyt?
 
 Nyt voit lähettää maailmalle ensimmäisen tööttäyksesi! Kun olet kirjautunut Mastodoniin, serverin etusivulla on laatikko, johon voit kirjoittaa viestin ja klikata _Toot!_ (tai _Lähetä viesti_ tms.) Viestisi lähti maailmalle! (Tässä vaiheessa sitä ei luonnollisesti juuri kukaan näe, mutta asia korjautuu ajan myötä.)
 
-<a href="img/mastodon_ensimmainen_viesti.png">
-  <img src="img/mastodon_ensimmainen_viesti.png" width="300px" alt="Lomake tööttäyksen lähetykseen">
+<a href="img/ensimmainen_viesti.png">
+  <img src="img/ensimmainen_viesti.png" width="300px" alt="Lomake tööttäyksen lähetykseen">
 </a>
 
 ### Omat tiedot
