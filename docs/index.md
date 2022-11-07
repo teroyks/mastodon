@@ -41,7 +41,11 @@ Valitse itsellesi käyttäjätunnus (sen pitää olla uniikki ko. serverillä, m
 
 ## Okei, liityin mukaan. Mitä nyt?
 
-Nyt voit lähettää maailmalle ensimmäisen tööttäyksesi! Kun olet kirjautunut Mastodoniin, serverin etusivulla on laatikko, johon voit kirjoittaa viestin ja klikata ”Toot!” Viestisi lähti maailmalle! (Tässä vaiheessa sitä ei luonnollisesti juuri kukaan näe, mutta asia korjautuu ajan myötä.)
+Nyt voit lähettää maailmalle ensimmäisen tööttäyksesi! Kun olet kirjautunut Mastodoniin, serverin etusivulla on laatikko, johon voit kirjoittaa viestin ja klikata _Toot!_ (tai _Lähetä viesti_ tms.) Viestisi lähti maailmalle! (Tässä vaiheessa sitä ei luonnollisesti juuri kukaan näe, mutta asia korjautuu ajan myötä.)
+
+<a href="img/mastodon_ensimmainen_viesti.png">
+  <img src="img/mastodon_ensimmainen_viesti.png" width="300px" alt="Lomake tööttäyksen lähetykseen">
+</a>
 
 ### Omat tiedot
 
