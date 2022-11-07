@@ -1,4 +1,4 @@
-<img href="img/mastodon_logo" alt="Mastodon logo" style="float:right;">
+<img src="img/mastodon_logo.png" alt="Mastodon logo" style="float: right; width: 100px">
 # Mastodon-opas
 
 Tämä on pikaopas alkuun pääsemiseksi Mastodonin kanssa. Olen tarkoituksella jättänyt tästä pois filosofiset pohdiskelut eri järjestelmien luonteista ja myös suurimman osan Mastodonin ominaisuuksista pois ja yrittänyt keskittyä oleelliseen: mikä Mastodon on ja miten siihen voi liittyä.
