@@ -71,3 +71,5 @@ Tulossa jatkoa Mastodonin käytöstä, mm.
 - Miten löydän sisältöä?
 - Hyvä tietää tööttäilystä
 - Miten Twitter-kaverini löytävät minut?
+
+<footer style="margin-top: 2em; font-size: x-small;">Päivitetty 7.11.2022</footer>
