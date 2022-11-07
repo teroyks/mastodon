@@ -1,7 +1,7 @@
 <img src="img/mastodon_logo.png" alt="Mastodon logo" style="float: right; width: 100px">
 # Mastodon-opas
 
-Tämä on pikaopas alkuun pääsemiseksi Mastodonin kanssa. Olen tarkoituksella jättänyt tästä pois filosofiset pohdiskelut eri järjestelmien luonteista ja myös suurimman osan Mastodonin ominaisuuksista pois ja yrittänyt keskittyä oleelliseen: mikä Mastodon on ja miten siihen voi liittyä.
+Tämä on pikaopas alkuun pääsemiseksi Mastodonin kanssa. Olen tarkoituksella jättänyt tästä pois filosofiset pohdiskelut eri järjestelmien luonteista ja myös suurimman osan Mastodonin ominaisuuksista ja yrittänyt keskittyä oleelliseen: mikä Mastodon on ja miten siihen voi liittyä.
 
 ## Mikä Mastodon?
 
@@ -17,10 +17,11 @@ Mastodon on ”vähän kuin Twitter, mutta parempi” (paremmuus on luonnollises
 - Ei rahanteko- tai koukutusalgoritmeja: keskiössä ovat käyttäjät ja se sisältö, jota jokainen on itse valinnut nähtäväkseen.
 - Ei mainoksia.
 - Ei someraivoon yllyttämistä keskeisenä osana alustan kulttuuria.
+- Parempia työkaluja oman kokemuksen hallitsemiseen, esim. sisältövaroitukset sisäänrakennettuna
 
 ## Miten pääsen alkuun?
 
-Ensimmäinen (ja isoin) kynnys Mastodonin käytön aloittamiseksi on serverin valinta. Mastodon on hajautettu järjestelmä, joka koostuu lukuisista eri servereistä (usein niitä kutsutaan myös instansseiksi). Mastodon-tunnus näyttää vähän sähköpostiosoitteelta, eli siinä on käyttäjätunnuksen perässä serverin osoite (esim. oma tunnukseni on [@t3ro@mastodon.social](https://mastodon.social/@t3ro)).
+Ensimmäinen (ja isoin) kynnys Mastodonin käytön aloittamiseksi on serverin valinta. Mastodon on hajautettu järjestelmä, joka koostuu lukuisista eri servereistä (usein niitä kutsutaan myös instansseiksi). Mastodon-tunnus näyttää vähän sähköpostiosoitteelta, eli siinä on käyttäjänimen perässä serverin osoite (esim. oma tunnukseni on [@t3ro@mastodon.social](https://mastodon.social/@t3ro)).
 
 Servereitä on erilaisia, ja niillä voi olla keskenään vähän erilaisia sääntöjä esim. sallitun sisällön suhteen. ”Oman” serverin sisältöä on myös mahdollista selailla ja etsiä monipuolisemmin kuin koko verkostosta. Tästä ei kuitenkaan tarvitse tässä vaiheessa välittää.
 
@@ -54,7 +55,7 @@ Jos haluat, että joku viitsii seurata sinua Mastodonissa, kannattaa seuraavaksi
 
 ### Seuraa muita
 
-Jos tiedät jonkun sellaisen henkilön, jonka tööttäykset haluaisit nähdä, käyttäjätunnuksen, kirjoita se etusivun hakukenttään. Saat näkyviin henkilön tiedot ja voit seurata häntä – tämä tarkoittaa, että ko. henkilön postaukset näkyvät omassa viestivirrassasi.
+Jos tiedät jonkun sellaisen henkilön, jonka päivitykset haluaisit nähdä, Mastodon-tunnuksen, kirjoita se etusivun hakukenttään. Saat näkyviin henkilön tiedot ja voit seurata häntä – tämä tarkoittaa, että ko. henkilön postaukset näkyvät omassa viestivirrassasi.
 
 ### Siinä se
 
