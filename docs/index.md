@@ -18,6 +18,7 @@ Mastodon on ”vähän kuin Twitter, mutta parempi” (paremmuus on luonnollises
 - Ei mainoksia.
 - Ei someraivoon yllyttämistä keskeisenä osana alustan kulttuuria.
 - Parempia työkaluja oman kokemuksen hallitsemiseen, esim. sisältövaroitukset sisäänrakennettuna.
+- Omia päivityksiään voi muokata.
 
 ## Miten pääsen alkuun?
 
@@ -76,5 +77,5 @@ Tulossa jatkoa Mastodonin käytöstä, mm.
 <footer style="margin-top: 2em; font-size: small; border-top: 1px solid lightgrey; padding-top: .5em;">
 <img src="img/me.png" style="width: 50px; float: left; margin-right: 1em;" alt="My Mastodon profile picture">
 Tekijä: <a href="https://mastodon.social/@t3ro" rel="me" title="My Mastodon page">Tero Ykspetäjä</a>.
-Päivitetty 7.11.2022
+Päivitetty 8.11.2022
 </footer>
