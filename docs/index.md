@@ -14,7 +14,7 @@ Mastodon-verkosto on pääosin harrastajien ja vapaaehtoisten ylläpitämä, ilm
 Mastodon on ”vähän kuin Twitter, mutta parempi” (paremmuus on luonnollisesti makuasia). Sen hyviä puolia ovat muun muassa:
 
 - Mikään yksittäinen taho ei omista sitä eikä voi määräillä käyttöä tai muutella tuosta vain ominaisuuksia.
-- Ei rahanteko- tai koukutusalgoritmeja: keskiössä ovat käyttäjät ja se sisältö, jota jokainen on itse valinnut nähtäväkseen.
+- Ei rahanteko- tai koukutusalgoritmeja: keskiössä ovat käyttäjät ja se sisältö, jonka on itse valinnut nähtäväkseen.
 - Ei mainoksia.
 - Ei someraivoon yllyttämistä keskeisenä osana alustan kulttuuria.
 - Parempia työkaluja oman kokemuksen hallitsemiseen, esim. sisältövaroitukset ja tuki päivitysten tekoon useammalla kielellä.
