@@ -17,7 +17,7 @@ Mastodon on ”vähän kuin Twitter, mutta parempi” (paremmuus on luonnollises
 - Ei rahanteko- tai koukutusalgoritmeja: keskiössä ovat käyttäjät ja se sisältö, jota jokainen on itse valinnut nähtäväkseen.
 - Ei mainoksia.
 - Ei someraivoon yllyttämistä keskeisenä osana alustan kulttuuria.
-- Parempia työkaluja oman kokemuksen hallitsemiseen, esim. sisältövaroitukset sisäänrakennettuna.
+- Parempia työkaluja oman kokemuksen hallitsemiseen, esim. sisältövaroitukset ja tuki päivitysten tekoon useammalla kielellä sisäänrakennettuna.
 - Omia päivityksiään voi muokata.
 
 ## Miten pääsen alkuun?
