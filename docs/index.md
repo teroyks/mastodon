@@ -22,7 +22,7 @@ Mastodon on ”vähän kuin Twitter, mutta parempi” (paremmuus on luonnollises
 
 ## Miten pääsen alkuun?
 
-Ensimmäinen (ja isoin) kynnys Mastodonin käytön aloittamiseksi on serverin valinta. Mastodon on hajautettu järjestelmä, joka koostuu lukuisista eri servereistä (usein niitä kutsutaan myös instansseiksi). Päivitykset kulkeutuvat serveriltä toiselle, eli serverin valinta ei rajoita sitä, keiden päivityksiä pääset näkemään. Mastodon-tunnus näyttää vähän sähköpostiosoitteelta, eli siinä on käyttäjänimen perässä serverin osoite (esim. oma tunnukseni on [@t3ro@mastodon.social](https://mastodon.social/@t3ro)).
+Ensimmäinen (ja isoin) kynnys Mastodonin käytön aloittamiseksi on serverin valinta. Mastodon on hajautettu järjestelmä, joka koostuu lukuisista eri servereistä (usein niitä kutsutaan myös instansseiksi). Päivitykset kulkeutuvat serveriltä toiselle, eli serverin valinta ei rajoita sitä, keiden päivityksiä pääset näkemään. Mastodon-tunnus näyttää vähän sähköpostiosoitteelta, eli siinä on käyttäjänimen perässä serverin osoite (esim. oma tunnukseni on [@tero@masto.ai](https://masto.ai/@tero)).
 
 Servereitä on erilaisia, ja niillä voi olla keskenään vähän erilaisia sääntöjä esim. sallitun sisällön suhteen. ”Oman” serverin sisältöä on myös mahdollista selailla ja etsiä monipuolisemmin kuin koko verkostosta. Tästä ei kuitenkaan tarvitse tässä vaiheessa välittää.
 
@@ -64,7 +64,7 @@ Onnittelut! Olet Mastodonissa!
 
 ## Mitä jos valitsin väärän serverin?
 
-Serverin valinnan ei tarvitse olla valtavan iso päätös – jos myöhemmin huomaat, että joku toinen serveri sopisi sinulle paremmin, voit siirtää tunnuksen sinne ja säilyttää silti seuraajasi, jotka siirtyvät automaattisesti seuraamaan uutta tunnusta. (Lähettämäsi viestit eivät siirry automaattisesti, mutta niitäkin on mahdollista siirtää, se vain vaatii jonkin verran vaivannäköä.)
+Serverin valinnan ei tarvitse olla valtavan iso päätös – jos myöhemmin huomaat, että joku toinen serveri sopisi sinulle paremmin, voit siirtää tunnuksen sinne ja säilyttää silti seuraajasi, jotka siirtyvät automaattisesti seuraamaan uutta tunnusta. (Lähettämäsi viestit eivät tällä hetkellä siirry, mutta voit jättää ne vanhalle tunnukselle näkyviin. Tämäkin ratkaistaneen ennen pitkää.)
 
 ## Miten tästä eteenpäin?
 
