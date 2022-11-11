@@ -75,7 +75,11 @@ Tulossa jatkoa Mastodonin käytöstä, mm.
 - Miten Twitter-kaverini löytävät minut?
 
 <footer style="margin-top: 2em; font-size: small; border-top: 1px solid lightgrey; padding-top: .5em;">
-<img src="img/me.png" style="width: 50px; float: left; margin-right: 1em;" alt="My Mastodon profile picture">
+<img src="img/me.png" style="width: 50px; float: left; margin-right: 1em; margin-bottom: 1em;" alt="My Mastodon profile picture">
 Tekijä: <a href="https://masto.ai/@tero" rel="me" title="My Mastodon page">Tero Ykspetäjä</a>.
 Päivitetty 9.11.2022
+
+<p style="clear: left;">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+</p>
 </footer>
