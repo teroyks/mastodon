@@ -74,6 +74,8 @@ Tulossa jatkoa Mastodonin käytöstä, mm.
 - Hyvä tietää tööttäilystä
 - Miten Twitter-kaverini löytävät minut?
 
+Jos tämä ohje tuntui turhan lyhyeltä ja pintapuoliselta, suosittelen Roni Laukkarisen [perinpohjaista artikkelia Mastodonin käytön aloittamisesta](https://www.rollemaa.fi/nain-aloitat-mastodonin-kayton-mihin-rekisteroitya-keta-seurata/).
+
 <footer style="margin-top: 2em; font-size: small; border-top: 1px solid lightgrey; padding-top: .5em;">
 <img src="img/me.png" style="width: 50px; float: left; margin-right: 1em" alt="My Mastodon profile picture">
 Tekijä: <a href="https://masto.ai/@tero" rel="me" title="My Mastodon page">Tero Ykspetäjä</a>.
