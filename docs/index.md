@@ -28,7 +28,7 @@ Servereitä on erilaisia, ja niillä voi olla keskenään vähän erilaisia sä�
 
 Hyvä aloitusserveri suomalaisille, jotka aikovat viestiä Mastodonissa suomeksi, on [mastodontti.fi](https://mastodontti.fi/about). Mukaan voi liittyä kuka vain, mutta serverin erityissääntönä tosiaan on, että viestit lähetetään suomeksi.
 
-Jos haluaa tööttäillä myös muilla kielillä, suomalainen vaihtoehto on [mastodo.fi](https://mastodo.fi/about). Toinen sopiva yleisserveri on [mastodon.world](https://mastodon.world/about).
+Jos haluaa tööttäillä myös muilla kielillä, suomalainen vaihtoehto on [mastodonsuomi.fi](https://mastodonsuomi.fi/about).
 
 ### Käyttäjätunnuksen rekisteröinti
 
