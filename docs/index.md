@@ -7,7 +7,7 @@ Tämä on pikaopas alkuun pääsemiseksi Mastodonin kanssa. Olen tarkoituksella 
 
 Mastodon on samankaltainen somealusta kuin Twitter: sinne voi postittaa omia lyhyitä viestejä ja seurata muiden postauksia. Mastodon näyttää aika samanlaiselta kuin Twitter, ja sen käyttökin on pitkälti samanlaista. Mastodonia voi käyttää web-selaimella (toimii myös mobiililaitteissa) tai appia käyttämällä.
 
-Mastodon-verkosto on pääosin harrastajien ja vapaaehtoisten ylläpitämä, ilman markkinointiosastoa tai ‑budjettia, ja välillä sen huomaa. Esimerkiksi siitä, että käyttöliittymät eivät aina ole ihan yhtä selkeitä ja loppuun hiottuja kuin kaupallisissa tuotteissa, tai että käytetty termistö voi olla vähän hassunkurista (Mastodonin vastine tviitille esimerkiksi on ”toot” eli tööttäys). Tähän kannattaa suhtautua ymmärtäväisesti.
+Mastodon-verkosto on pääosin harrastajien ja vapaaehtoisten ylläpitämä, ilman markkinointiosastoa tai ‑budjettia, ja välillä sen huomaa. Esimerkiksi siitä, että käyttöliittymät eivät aina ole ihan yhtä selkeitä ja loppuun hiottuja kuin kaupallisissa tuotteissa, tai että käytetty termistö voi olla vähän hassunkurista (Mastodonin vastine tviitille esimerkiksi on ”toot” eli tööttäys, vaikka nykyään yleisemmin suositaan kyllä termiä ”post”). Tähän kannattaa suhtautua ymmärtäväisesti.
 
 ### Miksi Mastodon?
 
