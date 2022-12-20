@@ -64,7 +64,7 @@ Onnittelut! Olet Mastodonissa!
 
 ## Mitä jos valitsin väärän serverin?
 
-Serverin valinnan ei tarvitse olla valtavan iso päätös – jos myöhemmin huomaat, että joku toinen serveri sopisi sinulle paremmin, voit siirtää tunnuksen sinne ja säilyttää silti seuraajasi, jotka siirtyvät automaattisesti seuraamaan uutta tunnusta. (Lähettämäsi viestit eivät tällä hetkellä siirry, mutta voit jättää ne vanhalle tunnukselle näkyviin. Tämäkin ratkaistaneen ennen pitkää.)
+Serverin valinnan ei tarvitse olla valtavan iso päätös – jos myöhemmin huomaat, että joku toinen serveri sopisi sinulle paremmin, voit siirtää tunnuksen sinne ja säilyttää silti seuraajasi, jotka siirtyvät automaattisesti seuraamaan uutta tunnusta. (Lähettämäsi viestit eivät siirry, mutta voit jättää ne vanhalle tunnukselle näkyviin.)
 
 ## Miten tästä eteenpäin?
 
